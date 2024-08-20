@@ -2,9 +2,7 @@
 - 👀 I’m interested in Web - FullStack Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web-Developing projects
-- 📫 How to reach me telegram : @WhuZis
-- 😄 Pronouns: ;) normal
-- ⚡ Fun fact: funny to develop
+- 📫 How to reach me : telegram : @WhuZis
 
 <!---
 qqwrxtr/qqwrxtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
