@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @qqwrxtr
 - 👀 I’m interested in Web - FullStack Development
-- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web-Developing projects
 - 📫 How to reach me :  telegram - @qqwrxtr
 
